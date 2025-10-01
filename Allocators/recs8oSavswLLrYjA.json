@@ -1,20 +1,8 @@
 {
-  "application_number": 811,
   "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "name": "Manual Diligence Meta Allocator",
-  "allocator_id": "f03358620",
   "organization": "Fil+ Governance Team",
-  "metapathway_type": "RKH",
-  "ma_address": "f080",
-  "pathway_addresses": {
-    "msig": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-    "signers": [
-      "f410fnulov6fntwrhpsztyu2sr64xpk4t2wrog6i2say",
-      "f410fcbvdogvwnlfhc5jxk7v5toykgi7akurj7wogbai",
-      "f410f3k5oq6fw2ecfvfax5lzmyqua3pcrb47wocnp2qq"
-    ]
-
-  },
+  "pathway_addresses": {},
   "associated_org_addresses": "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
   "application": {
     "audit": [
@@ -24,7 +12,6 @@
     "tranche_schedule": "I will use a custom calculation. ",
     "required_sps": "5",
     "required_replicas": "5",
-    "tooling": [],
     "github_handles": [
       "galen-mcandrew"
     ],
@@ -32,20 +19,20 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-05-27T20:00:39.000Z",
-    "KYC Submitted": "2025-05-27T20:19:58.000Z",
-    "Approved": "2025-05-27T20:21:18.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-06-04T09:47:54.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-05-27T20:00:30.000Z",
-      "ended": "2025-05-27T20:21:18.000Z",
-      "dc_allocated": "2025-06-04T10:13:56.000Z",
-      "outcome": "GRANTED",
-      "datacap_amount": 250
+      "started": "2025-10-01T00:30:59.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
     }
   ],
-  "old_allocator_id": "f03358620"
+  "old_allocator_id": ""
 }
