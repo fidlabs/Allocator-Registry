@@ -28,14 +28,14 @@
       "cryptowhizzard"
     ],
     "allocation_bookkeeping": "https://github.com/cryptowhizzard/Fil-A-2",
-    "client_contract_address": "f410femjultrstspavt3ityq3hv3g3lu5mf7vlvdxa2a"
+    "client_contract_address": ""
   },
   "history": {
     "Application Submitted": "2025-06-04T07:33:33.000Z",
     "KYC Submitted": "2025-06-04T07:38:03.000Z",
-    "Approved": "2025-07-02T22:03:58.000Z",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-02T22:11:30.000Z"
+    "DC Allocated": "2025-07-03T11:01:52.000Z"
   },
   "audits": [
     {
@@ -67,5 +67,5 @@
       "datacap_amount": 10
     }
   ],
-  "old_allocator_id": "f03018494"
+  "old_allocator_id": ""
 }
