@@ -2,13 +2,11 @@
   "application_number": 877,
   "address": "f410f7l5mtq7w3m52y4joj4ckkiaaqgireqton3l6joy",
   "name": "Gitcoin Faucet",
-  "allocator_id": "f03220716",
   "organization": "FIDL",
   "metapathway_type": "RKH",
   "ma_address": "f080",
   "pathway_addresses": {
-    "msig": "f410f7l5mtq7w3m52y4joj4ckkiaaqgireqton3l6joy",
-    "signer": []
+    "signers": []
   },
   "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
   "application": {
@@ -29,7 +27,7 @@
   "history": {
     "Application Submitted": "2025-06-06T15:43:08.000Z",
     "KYC Submitted": "2025-07-01T01:48:25.000Z",
-    "Approved": "2025-07-29T03:17:53.000Z",
+    "Approved": "",
     "Declined": "",
     "DC Allocated": "2025-07-29T03:17:53.000Z"
   },
@@ -42,5 +40,5 @@
       "datacap_amount": 5
     }
   ],
-  "old_allocator_id": "f03220716"
+  "old_allocator_id": ""
 }
