@@ -2,12 +2,10 @@
   "application_number": 1034,
   "address": "f2easi46ap54rihqik5cck2wr55hwm4rmmi2c2wxy",
   "name": "Antalpha",
-  "allocator_id": "f03019858",
   "organization": "Antalpha",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
-    "msig": "f2easi46ap54rihqik5cck2wr55hwm4rmmi2c2wxy",
     "signers": [
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1xx6555qijma7igpnjspyvdunc4vfxkawnpqy5ii"
@@ -29,12 +27,12 @@
       "nj-steve"
     ],
     "allocation_bookkeeping": "https://github.com/Antalpha-Web3/Ant-Steve",
-    "client_contract_address": "f410frmvbt7qimx245kwm5dvdggx6qywz5behbg2eiwy"
+    "client_contract_address": ""
   },
   "history": {
     "Application Submitted": "2025-07-10T04:09:33.000Z",
     "KYC Submitted": "2025-07-10T04:18:10.000Z",
-    "Approved": "2025-07-29T05:10:35.000Z",
+    "Approved": "",
     "Declined": "",
     "DC Allocated": "2025-07-29T05:10:35.000Z"
   },
@@ -61,5 +59,5 @@
       "datacap_amount": 2.5
     }
   ],
-  "old_allocator_id": "f03019858"
+  "old_allocator_id": ""
 }
