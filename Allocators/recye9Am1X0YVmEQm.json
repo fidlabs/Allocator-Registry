@@ -1,15 +1,9 @@
 {
   "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
   "name": "FIDL Open Data ",
-  "allocator_id": "f03015751",
   "organization": "FIDL",
   "pathway_addresses": {
-    "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
-    "signers": [
-      "f1k4zrriujtwdlea64k7saa3l7jkbatzebfzinj7i",
-      "f1r3lzgzpja2hvhcaxcdruic5qol2as27jl52xtvq",
-      "f1msap4wvgzzv4xlzeq6kycmgx55ferfloxnt2rcy"
-    ]
+    "signers": []
   },
   "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
   "application": {
@@ -35,7 +29,7 @@
   },
   "audits": [
     {
-      "started": "2025-11-16T14:52:12.000Z",
+      "started": "2025-11-16T14:51:56.000Z",
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
