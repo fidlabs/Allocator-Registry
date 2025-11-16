@@ -1,10 +1,9 @@
 {
+  "application_number": 2635,
   "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
   "name": "FIDL Open Data ",
-  "allocator_id": "f03015751",
   "organization": "FIDL",
   "pathway_addresses": {
-    "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
     "signers": [
       "f1k4zrriujtwdlea64k7saa3l7jkbatzebfzinj7i",
       "f1r3lzgzpja2hvhcaxcdruic5qol2as27jl52xtvq",
@@ -27,7 +26,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "",
+    "Application Submitted": "2025-11-16T17:55:32.000Z",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
