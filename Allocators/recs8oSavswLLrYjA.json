@@ -2,7 +2,9 @@
   "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "name": "Manual Diligence Meta Allocator",
   "organization": "Fil+ Governance Team",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
   "application": {
     "audit": [
@@ -27,7 +29,7 @@
   },
   "audits": [
     {
-      "started": "2025-11-23T01:12:16.000Z",
+      "started": "2025-11-23T00:57:58.000Z",
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
