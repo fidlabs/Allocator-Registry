@@ -4,6 +4,8 @@
   "name": "MediaPlatformData",
   "allocator_id": "f03014641",
   "organization": "MetaEra",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2y7haenxlzx372nqgt56ndf5qjxcokbub62glpky",
     "signers": [
@@ -19,6 +21,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "4",
     "required_replicas": "4",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "metaeraworkops"
     ],
@@ -26,11 +31,11 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-12-06T07:52:54.000Z",
-    "KYC Submitted": "",
+    "Application Submitted": "2025-12-02T13:52:50.000Z",
+    "KYC Submitted": "2025-06-09T12:27:12.000Z",
     "Approved": "",
     "Declined": "",
-    "DC Allocated": ""
+    "DC Allocated": "2025-07-16T03:40:39.000Z"
   },
   "audits": [
     {
