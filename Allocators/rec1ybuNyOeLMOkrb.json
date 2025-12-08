@@ -1,4 +1,5 @@
 {
+  "application_number": 4668,
   "address": "f27vme4xvjuzwnrx4djdd52jnj5y3arvrtvhc5niy",
   "name": "FIDL Enterprise Data",
   "organization": "FIDL",
@@ -21,7 +22,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "",
+    "Application Submitted": "2025-12-08T23:54:11.000Z",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
