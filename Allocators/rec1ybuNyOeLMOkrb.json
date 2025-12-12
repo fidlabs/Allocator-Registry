@@ -1,10 +1,9 @@
 {
+  "application_number": 5304,
   "address": "f27vme4xvjuzwnrx4djdd52jnj5y3arvrtvhc5niy",
   "name": "FIDL Enterprise Data",
-  "allocator_id": "f03015757",
   "organization": "FIDL",
   "pathway_addresses": {
-    "msig": "f27vme4xvjuzwnrx4djdd52jnj5y3arvrtvhc5niy",
     "signers": [
       "f1k4zrriujtwdlea64k7saa3l7jkbatzebfzinj7i",
       "f1r3lzgzpja2hvhcaxcdruic5qol2as27jl52xtvq",
@@ -28,7 +27,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "",
+    "Application Submitted": "2025-12-12T03:43:24.000Z",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
