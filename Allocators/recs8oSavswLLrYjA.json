@@ -1,11 +1,8 @@
 {
-  "application_number": 5909,
   "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "name": "Manual Diligence Meta Allocator",
   "organization": "Fil+ Governance Team",
-  "pathway_addresses": {
-    "signers": []
-  },
+  "pathway_addresses": {},
   "associated_org_addresses": "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
   "application": {
     "audit": [
@@ -22,7 +19,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-12-14T15:56:36.000Z",
+    "Application Submitted": "",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
@@ -30,7 +27,7 @@
   },
   "audits": [
     {
-      "started": "2025-12-14T15:56:08.000Z",
+      "started": "2025-12-14T15:56:42.000Z",
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
