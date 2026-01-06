@@ -1,14 +1,10 @@
 {
+  "application_number": 10111,
   "address": "f23ex4ojevlypxnbjc6kbqjgulqcqtrf4ztjblaqy",
   "name": "IPFSForce",
-  "allocator_id": "f03019856",
   "organization": "IPFSForce",
   "pathway_addresses": {
-    "msig": "f23ex4ojevlypxnbjc6kbqjgulqcqtrf4ztjblaqy",
-    "signers": [
-      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
-      "f1x4nh2yvv2o2wwr4f7l7ocuenz7trdv7z5oqlgni"
-    ]
+    "signers": []
   },
   "associated_org_addresses": "f1qzdvspgxc4wjrfiq4a4ig3rpdlvkl6rgm3voyvy",
   "application": {
@@ -26,7 +22,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "",
+    "Application Submitted": "2026-01-06T15:56:52.000Z",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
