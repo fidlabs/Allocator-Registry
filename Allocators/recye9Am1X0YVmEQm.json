@@ -1,5 +1,4 @@
 {
-  "application_number": 13146,
   "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
   "name": "FIDL Open Data ",
   "allocator_id": "f03015751",
@@ -28,7 +27,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2026-01-12T07:55:57.000Z",
+    "Application Submitted": "",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
@@ -36,7 +35,7 @@
   },
   "audits": [
     {
-      "started": "2026-01-12T07:55:44.000Z",
+      "started": "2026-01-12T07:55:49.000Z",
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
